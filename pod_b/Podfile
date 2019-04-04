@@ -1,0 +1,10 @@
+source 'https://github.com/goinstant/pods-specs-public'
+source 'https://github.com/CocoaPods/Specs.git'
+
+install! 'cocoapods', integrate_targets: false
+
+platform :ios, '12.0'
+
+target 'FooBar' do
+  pod 'ServiceSDK'
+end

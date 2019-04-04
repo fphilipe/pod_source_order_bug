@@ -1,0 +1,18 @@
+PODS:
+  - ServiceSDK (218.0.1):
+    - ServiceSDK/All (= 218.0.1)
+  - ServiceSDK/All (218.0.1)
+
+DEPENDENCIES:
+  - ServiceSDK
+
+SPEC REPOS:
+  https://github.com/goinstant/pods-specs-public:
+    - ServiceSDK
+
+SPEC CHECKSUMS:
+  ServiceSDK: 5791ba99f369f7473ac18477fa41d0dc36dd1c7f
+
+PODFILE CHECKSUM: bd36dd27699d957be2c9fc1d72f0f9a350923902
+
+COCOAPODS: 1.7.0.beta.3
